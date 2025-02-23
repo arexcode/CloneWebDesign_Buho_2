@@ -14,6 +14,6 @@ Para ejecutar este proyecto en tu entorno local:
 
 ```sh
 git clone https://github.com/arexcode/CloneWebDesign_Buho_2
-cd web-design-clone
+cd clone-web-design
 npm install
 npm run dev
