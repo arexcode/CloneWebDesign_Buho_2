@@ -1,8 +1,19 @@
-# React + Vite
+# 🌐 Web Design Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un clon de una página de Web Design, desarrollado con **React**, **Tailwind CSS** y **Vite**. El objetivo del proyecto es recrear el diseño y la funcionalidad de la página original con una arquitectura moderna y código optimizado.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías Usadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ **React** - Para la estructura del front-end.
+- 🎨 **Tailwind CSS** - Para un diseño limpio y responsivo.
+- ⚡ **Vite** - Para un entorno de desarrollo rápido.
+
+## 📦 Instalación
+
+Para ejecutar este proyecto en tu entorno local:
+
+```sh
+git clone https://github.com/arexcode/CloneWebDesign_Buho_2
+cd web-design-clone
+npm install
+npm run dev
