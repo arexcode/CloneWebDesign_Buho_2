@@ -1,11 +1,12 @@
 import PropTypes from "prop-types";
-import { NavBar } from "../components";
+import { Footer, NavBar } from "../components";
 
 export function MainLayout({ children }){
     return(
         <div>
             <NavBar />
             {children}
+            <Footer />
         </div>
     )
 }
