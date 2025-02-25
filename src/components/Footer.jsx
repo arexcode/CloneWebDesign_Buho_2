@@ -51,8 +51,8 @@ export function Footer(){
                     </div>
 
                     <div className="text-white text-md">
-                        <span> Terms & Conditions </span>
-                        <span className="ml-12"> Privacy Policy </span>
+                        <a href="#"> Terms & Conditions </a>
+                        <a href="#" className="ml-12"> Privacy Policy </a>
                     </div>
 
                 </div>
